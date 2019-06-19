@@ -6,7 +6,7 @@
 25/01/2018,19:44,9gag,25/01/2018,19:45,Piotr,private
 31/01/2018,20:30,9gag,31/01/2018,20:31,Piotr,private
 08/02/2018,09:43,9gag,08/02/2018,10:10,Piotr,private
-08/02/2018,10:14,9gag,08/02/2018,10:17,dennis: An ambulance but with Owen Wilson saying WOW https,private
+08/02/2018,10:14,9gag,08/02/2018,10:17,dennis,private
 14/02/2018,18:33,9gag,14/02/2018,18:33,dennis,private
 18/02/2018,13:51,9gag,18/02/2018,13:51,dennis,private
 21/02/2018,14:09,9gag,21/02/2018,14:17,Piotr,private
@@ -25,7 +25,7 @@
 26/06/2018,20:19,9gag,26/06/2018,20:19,dennis,private
 26/06/2018,20:35,9gag,26/06/2018,20:35,dennis,private
 02/07/2018,23:06,9gag,02/07/2018,23:07,dennis,private
-10/07/2018,09:49,9gag,10/07/2018,09:54,Piotr: Rekter dan ik hebben kan ,private
+10/07/2018,09:49,9gag,10/07/2018,09:54,Piotr,private
 24/08/2018,20:45,9gag,24/08/2018,20:46,dennis,private
 07/09/2018,11:42,9gag,07/09/2018,11:42,dennis,private
 30/09/2018,22:17,9gag,30/09/2018,22:53,Piotr,private
@@ -48,7 +48,7 @@
 03/12/2018,21:01,9gag,03/12/2018,21:01,dennis,private
 11/12/2018,23:28,9gag,12/12/2018,00:52,Piotr,private
 18/12/2018,13:41,9gag,18/12/2018,13:41,dennis,private
-30/12/2018,22:02,9gag,03/01/2019,12:17,dennis: What the cat!!! https,private
+30/12/2018,22:02,9gag,03/01/2019,12:17,dennis,private
 07/01/2019,11:39,9gag,07/01/2019,11:39,dennis,private
 07/01/2019,11:44,9gag,07/01/2019,11:44,dennis,private
 09/01/2019,10:40,9gag,09/01/2019,10:41,Piotr,private
@@ -76,11 +76,11 @@
 01/03/2019,19:01,9gag,01/03/2019,19:01,dennis,private
 01/03/2019,19:16,9gag,01/03/2019,19:17,Piotr,private
 03/03/2019,16:36,9gag,03/03/2019,16:40,Piotr,private
-05/03/2019,22:28,9gag,05/03/2019,22:34,dennis: Knock knock joke https,private
+05/03/2019,22:28,9gag,05/03/2019,22:34,dennis,private
 06/03/2019,12:28,9gag,06/03/2019,12:28,dennis,private
 07/03/2019,21:43,9gag,07/03/2019,22:04,Piotr,private
 10/03/2019,02:36,9gag,10/03/2019,02:36,dennis,private
-10/03/2019,02:44,9gag,10/03/2019,02:50,dennis: If you close your eyes right before the end you'll feel at peace for a moment https,private
+10/03/2019,02:44,9gag,10/03/2019,02:50,dennis,private
 10/03/2019,02:51,9gag,10/03/2019,02:52,dennis,private
 11/03/2019,20:23,9gag,11/03/2019,20:23,dennis,private
 12/03/2019,20:51,9gag,12/03/2019,20:51,dennis,private
@@ -96,7 +96,7 @@
 31/03/2019,12:12,9gag,31/03/2019,12:15,Piotr,private
 31/03/2019,16:08,9gag,31/03/2019,16:08,dennis,private
 14/04/2019,01:33,9gag,14/04/2019,12:19,Piotr,private
-16/04/2019,21:13,9gag,17/04/2019,09:09,dennis: Heb om 14,private
+16/04/2019,21:13,9gag,17/04/2019,09:09,dennis,private
 27/04/2019,17:12,9gag,27/04/2019,23:33,dennis,private
 29/04/2019,11:53,9gag,29/04/2019,11:53,dennis,private
 29/04/2019,14:27,9gag,29/04/2019,14:27,Piotr,private

@@ -1,4 +1,4 @@
-01/12/2016,22:45,ja,01/12/2016,22:47,Piotr: oke bekijk dit zo,private
+01/12/2016,22:45,ja,01/12/2016,22:47,Piotr,private
 08/12/2016,14:03,ja,08/12/2016,14:03,Piotr,private
 03/01/2017,12:07,ja,03/01/2017,12:07,dennis,private
 06/01/2017,19:51,ja,06/01/2017,19:51,dennis,private
@@ -38,7 +38,7 @@
 13/02/2018,15:35,ja,13/02/2018,15:55,Piotr,private
 20/02/2018,12:25,ja,20/02/2018,12:29,Piotr,private
 25/03/2018,17:58,ja,25/03/2018,17:59,dennis,private
-21/04/2018,14:54,ja,24/04/2018,23:40,dennis: If there's a movie about me https,private
+21/04/2018,14:54,ja,24/04/2018,23:40,dennis,private
 11/05/2018,00:31,ja,11/05/2018,00:47,dennis,private
 13/05/2018,13:57,ja,13/05/2018,13:58,Piotr,private
 14/05/2018,16:00,ja,14/05/2018,16:00,dennis,private
@@ -65,7 +65,7 @@
 05/01/2019,16:47,ja,05/01/2019,16:47,dennis,private
 06/01/2019,18:25,ja,06/01/2019,18:25,Piotr,private
 09/01/2019,10:45,ja,09/01/2019,10:46,dennis,private
-10/01/2019,19:18,ja,10/01/2019,19:19,dennis: *hits the magic grass noodle* https,private
+10/01/2019,19:18,ja,10/01/2019,19:19,dennis,private
 25/01/2019,10:17,ja,25/01/2019,10:21,dennis,private
 31/01/2019,11:05,ja,31/01/2019,11:05,Piotr,private
 07/02/2019,20:21,ja,07/02/2019,20:55,Piotr,private

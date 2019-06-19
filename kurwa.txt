@@ -9,7 +9,7 @@
 20/11/2018,16:08,kurwa,20/11/2018,16:08,dennis,private
 05/02/2019,00:34,kurwa,05/02/2019,00:35,dennis,private
 21/02/2019,21:20,kurwa,21/02/2019,21:20,dennis,private
-20/03/2019,17:14,kurwa,20/03/2019,17:15,Piotr: klinkt alsof je het zeer leuk vond ,private
+20/03/2019,17:14,kurwa,20/03/2019,17:15,Piotr,private
 18/04/2019,15:04,kurwa,18/04/2019,15:05,Piotr,private
 12/05/2019,11:04,kurwa,12/05/2019,11:04,dennis,private
 16/05/2019,17:18,kurwa,16/05/2019,17:18,dennis,private

@@ -13,7 +13,7 @@ def History_to_data(name, path_to_history, group_name = "private"):
     text = history.read()
     f = open("saved_history.txt", 'w')
     
-    date_regex = "(\d{2}[\W\D]\d{2}[\W\D](?:\d{4}|\d{2}))[\W\D]+(\d{2}[\W\D]\d{2})[\W\s]+"
+    date_regex = "(\d{1,2}[\W\D]\d{1,2}[\W\D](?:\d{4}|\d{2}))[\W\D]+(\d{1,2}[\W\D]\d{1,2})[\W\s]+"
     for keyword in keyword_list: #various keyword check
         reg_ex = (date_regex+ name +":[^\n]+(" + keyword +
                   ")[^\n]+\n"+date_regex +"([^:]+):")

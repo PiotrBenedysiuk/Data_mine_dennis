@@ -1,6 +1,6 @@
 import re #more like import the fukken antichrist
 
-keyword_list = ['kurwa', 'ja', '9gag', 'vo', 'bitch', 'kom dan', 'jonko', 'broer']
+keyword_list = ['kurwa', 'ja', '9gag', 'vo', 'bitch', 'kom dan', 'jonko', 'broer', 'dominion', 'any', 'urwa', 'drunu', 'fietsen', 'lopen', 'PAAL', 'kanker']
 
 def History_to_data(name, path_to_history, group_name = "private"):
     """This will create a txt file with only the times and dates that dennis 
